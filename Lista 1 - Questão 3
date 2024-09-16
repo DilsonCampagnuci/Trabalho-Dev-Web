@@ -1,0 +1,61 @@
+<!<!DOCTYPE HTML>
+<html lang="pt-BR">
+  <head>
+    <title>“Lista 1 – Questão 3</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    
+    <h3>A grande diferença entre a programação do lado do servidor e do lado do cliente é onde o código é executado.</h3>
+  
+  <h3><p>Server Side(Lado do Servidor):
+O código é executado no servidor antes que a página chegue ao navegador do usuário.
+- Responsável pelo processamento de dados, lógica de negócios e interação com banco de dados.
+O usuário vê apenas o resultado final, não o código.</h3></p>
+  
+  <h2>Exemplos:</h2>
+  
+  <table border= "1">
+  <tr>  
+  <td>- PHP: usado principalmente para desenvolvimento web dinâmico.</td>
+  <td>- Node.js: uma plataforma JavaScript executada no servidor. Muitas vezes funciona com estruturas como Django ou Flask para criar APIs e renderizar páginas da web.</td>
+  <td>- Ruby: Popular no desenvolvimento web.</td>
+  <td>- ASP.NET: Usado para desenvolver aplicativos web em ambientes Microsoft.</td></tr>
+</table>
+
+<p><h3>Client Side (Lado do Cliente):
+O código é executado diretamente no navegador do usuário.
+A função envolve interagir diretamente com o usuário, gerenciar a interface e criar animações.
+O usuário pode inspecionar o código (por exemplo, por meio de ferramentas de desenvolvedor do navegador).</h3>
+</p><h2>Exemplos:</h2>
+
+<table border= "1">
+<tr>  
+<td>- JavaScript é a linguagem principal usada para manipulação de DOM e interação do usuário.
+Embora não seja uma linguagem de programação, é usada para estruturar conteúdo.</td>
+<td>- CSS: usado para estilizar páginas e criar animações.</td></tr>
+
+</table>
+
+<p><h3>Basicamente, o lado do servidor faz todo o trabalho pesado e os dados no servidor, e o lado do cliente cuida da aparência da página e do que o usuário pode fazer em seu navegador.</h3></p>
+  
+  </body>
+  </html>
+  <head>
+   <style>
+
+	body{
+	 background-color:powderblue;
+}	
+	h2 {
+    	 color: blue;
+         font-family: copperplate gothic;
+         font-size: 150%;
+}
+	p {
+	 color: black;
+	 font-family: Arial;
+	 font-size: 100%;
+}
+</style>
+</head>
