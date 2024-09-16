@@ -1,0 +1,24 @@
+<!<!DOCTYPE HTML>
+<html lang="pt-BR">
+  <head>
+    <title>“Lista 1 - Questão 2</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="exercício">
+    <meta name="author" content="Dilson Campagnuci Neto">
+    <meta name="keywords" content="aprendizado, programação, desenvolvedor">
+  </head>  
+  <body>
+    <p>
+        O Codecademy é uma plataforma educacional que oferece uma ampla gama de cursos interativos para aprender programação. Com uma interface amigável e exercícios práticos, os usuários podem estudar linguagens populares como Python, JavaScript e Ruby, além de tópicos avançados como ciência de dados e desenvolvimento web. O Codecademy fornece feedback em tempo real e uma abordagem prática para garantir que os conceitos sejam compreendidos e aplicados efetivamente. Ideal tanto para iniciantes quanto para programadores que buscam expandir suas habilidades, o Codecademy é uma ferramenta valiosa no caminho do aprendizado de programação.
+    </p>
+  </body>
+   <head>
+   <style>
+
+	p {
+	 color:black ;
+	 font-family: Arial Black;
+	 font-size: 100%;
+}
+</style>
+</head>
