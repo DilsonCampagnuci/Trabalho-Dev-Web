@@ -1,0 +1,41 @@
+<!<!DOCTYPE HTML>
+<html lang="pt-BR">
+  <head>
+    <title>“Lista 1 – Questão 4</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    
+   
+  <h3><p>Semântica, no contexto de HTML e HTML5, refere-se ao uso de elementos que têm um significado claro e específico sobre o conteúdo que eles envolvem. Em vez de usar elementos genéricos como div e span para tudo, elementos semânticos têm um propósito definido, o que ajuda a descrever a estrutura e o significado do conteúdo da página.</h3></p>
+  
+  <h2>Importância da Semântica em HTML5:</h2>
+  
+  <table border= "1">
+  <tr>  
+  <td>- Melhor Compreensão do Conteúdo: Elementos semânticos ajudam navegadores, mecanismos de busca e tecnologias assistivas a entender o conteúdo e a estrutura de uma página. Por exemplo, header, footer, article, e section têm significados específicos que indicam suas funções dentro de um documento.</td>
+  <td>- SEO (Otimização para Motores de Busca): Motores de busca, como o Google, utilizam a estrutura semântica para entender melhor o conteúdo da página. Isso pode melhorar a classificação da página nos resultados de pesquisa, pois os motores de busca podem interpretar o conteúdo de forma mais precisa..</td>
+  <td>- Acessibilidade: Para pessoas com deficiências que utilizam leitores de tela ou outras tecnologias assistivas, elementos semânticos oferecem informações contextuais sobre a estrutura do conteúdo, tornando a navegação e a compreensão mais fáceis.</td>
+  <td>- Estilo e Layout: Embora a semântica não esteja diretamente relacionada ao estilo, ela pode influenciar a maneira como você estiliza sua página. Elementos semânticos podem ser mais facilmente estilizados de maneira consistente, e a estrutura clara ajuda na organização do CSS.</td></tr>
+</table>
+
+  </body>
+  </html>
+  <head>
+  <style>
+
+	body{
+	 background-color:powderblue;
+}	
+	h2 {
+    	 color: blue;
+         font-family: copperplate gothic;
+         font-size: 150%;
+}
+	p {
+	 color: black;
+	 font-family: Arial;
+	 font-size: 100%;
+}
+  </style>
+  </head>
